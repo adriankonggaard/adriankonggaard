@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adriankonggaard and I work with Microsoft Biztalk
 - 👀 I’m interested in integration
-- 🌱 I’m currently learning Azure functions, Servicebus
+- 🌱 I’m currently learning Azure functions, Servicebus, Logic Apps
 
 <!---
 adriankonggaard/adriankonggaard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
